@@ -17,8 +17,9 @@
 
 ## Windows
 
-### common software
+### 效率篇
 
+* [搜狗拼音] - ...
 * [Clover] - 给资源管理器加上chrome一样的标签
 * [Evernote] - ...
 * [PowerCmd] - windows下窗口命令行工具
@@ -29,4 +30,22 @@
 * [7z] - 7-Zip是一款高压缩比的压缩软件，不仅支持独有的7z文件格式，而且还支持各种其它压缩文件格式，其中包括 ZIP、RAR、CAB、GZIP、BZIP2和TAR等格式。此软件压缩的压缩比要比普通ZIP文件高30-50%
 * [DropBox] - ..
 * [Listary Pro] - 能极大幅度提高你 Windows 文件浏览与搜索速度效率的「超级神器」
+* [qq安全卫士] - --!
+ 
+### 开发篇
+
+* [Pencil] - 免费的手绘风格开源原型图设计工具
+* [Git] - ...
+* [TortoiseSVN] - TortoiseSVN是Subversion版本控制系统的一个免费开源客户端
+* [Xshell] - Xshell是一款非常好用的免费SSH客户端
+* [Webstorm] - ...
+* [Eclipse] - ...
+* [IntellijIDEA] - ...
+* [NodeJS] - ...
+* [Mysql] - ...
+* [Navicat] - ...
+* [PhotoShop] - ...
+
+> 开发的因人而异吧，有些环境比较繁琐，可能还需xxx .
+
 
