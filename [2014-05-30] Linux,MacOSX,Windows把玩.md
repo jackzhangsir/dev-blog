@@ -12,6 +12,10 @@
 
 - [ ] [yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
 - [ ] [在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
+> 安装完后,需要yum update 否则无法启动
+- [ ] [chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
+> 其实无需安装flash插件，设置chrome://plugins便可。
+
 
 
 
