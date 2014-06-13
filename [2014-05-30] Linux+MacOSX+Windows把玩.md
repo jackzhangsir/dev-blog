@@ -10,6 +10,8 @@
 
 ## CentOS
 
+### 问题
+
 - [ ] [yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
 - [ ] [在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
 
@@ -19,13 +21,69 @@
 
 >  其实无需安装flash插件，设置chrome://plugins便可。
 
+### 常用软件集
+
+* 浏览器
+ 
+  chrome,firfox,opera
+
+* 聊天
+
+  webqq,wechat
+  
+* email
+
+  ThunderBird Email
+
+
+* download
+
+
+* ftp
+
+
+* 文件管理
+
+
+* 压缩软件
+
+ ark
+
+
+* 文本编辑软件
+
+
+* 电子书阅读
+
+
+* 音频播放
+
+
+* 视频播放
+
+
+* 刻录软件
+
+
+* 办公套件
+
+  wps
+
+* 图像处理
+
+
+
+
+
+
 
 
 
 ## Windows
 
-### 效率篇
+### 常用软件集
 
+#### 效率篇
 
 * [Clover] - 给资源管理器加上chrome一样的标签
 * [Evernote] - ...
@@ -40,8 +98,9 @@
 * [qq安全卫士] - --!
 * [搜狗拼音] - ...
 * [企业qq] - ...
+* [foxmail] - ...
 
-### 开发篇
+#### 开发篇
 
 * [Pencil] - 免费的手绘风格开源原型图设计工具
 * [Git] - ...
