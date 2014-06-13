@@ -1,5 +1,5 @@
 
-# Linux,MacOSX,Windows把玩
+# Linux + MacOSX + Windows
 
 
 ## MacOSX
