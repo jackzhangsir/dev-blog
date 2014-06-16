@@ -24,6 +24,7 @@ git reset HEAD~1
 
 `
 git reset --hard HEAD~1
+
 `
 
 [help](http://hi.baidu.com/configuration/item/5a3f2b9a94f8d935336eeba9)
