@@ -12,15 +12,24 @@
 
 * 1.撤消提交(两种情形) 
 
+problem
 
 `
   git commit -m xxx
 ` 
 
+solve
+
+
+
+
+
 * 2.撤消缓存区
 
+problem
 
 `  
   git add .
 `
 
+solve
