@@ -16,17 +16,13 @@
 第一种：撤消提交后需要保存对文件的修改或者新增的文件
 
 `
-
 git reset HEAD~1
-
 `
 
 第二种：撤消提交后不需要保存对文件的修改或者新增的文件
 
 `
-
 git reset --hard HEAD~1
-
 `
 
 [help](http://hi.baidu.com/configuration/item/5a3f2b9a94f8d935336eeba9)
