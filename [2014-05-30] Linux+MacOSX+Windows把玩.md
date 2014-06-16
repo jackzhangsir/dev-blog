@@ -19,7 +19,7 @@
 
 - [ ] [chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
 
->  其实无需安装flash插件，设置chrome://plugins便可。
+>  adobe官网下载适配的flash包并安装，然后设置chrome://plugins便可。
 
 ### 常用软件集
 
