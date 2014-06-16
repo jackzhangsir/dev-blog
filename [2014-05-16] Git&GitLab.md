@@ -20,7 +20,10 @@
 
 2.撤消缓存区
 
-`  
-  git add .
+stage -> unstage
 `
+git reset HEAD filename
+`
+> 终端使用时会给你很好的提示。
+
 
