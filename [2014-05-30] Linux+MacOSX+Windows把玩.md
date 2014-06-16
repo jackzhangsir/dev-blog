@@ -16,8 +16,8 @@
 
 ### 问题
 
-1.[yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
-2.[在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
+1. [yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
+2. [在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
 
 >  安装完后,需要yum update 否则无法启动
 
