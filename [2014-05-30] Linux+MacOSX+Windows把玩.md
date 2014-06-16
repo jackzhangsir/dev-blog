@@ -11,6 +11,7 @@
 
 [alfred](http://wellsnake.com/jekyll/update/2014/06/15/001/)
 
+----------
 
 ## CentOS
 
@@ -24,6 +25,8 @@
 [chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
 
 >  adobe官网下载适配的flash包并安装，然后设置chrome://plugins便可。
+
+[ 解决libc.so.6: version `GLIBC_2.14' not found问题](http://blog.csdn.net/cpplang/article/details/8462768)
 
 ### 常用软件集
 
