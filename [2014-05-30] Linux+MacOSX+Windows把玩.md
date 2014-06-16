@@ -9,7 +9,7 @@
 
 ### 常用软件集
 
-1.[alfred](http://wellsnake.com/jekyll/update/2014/06/15/001/)
+[alfred](http://wellsnake.com/jekyll/update/2014/06/15/001/)
 
 
 ## CentOS
