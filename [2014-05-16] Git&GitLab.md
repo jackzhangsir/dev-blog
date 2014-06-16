@@ -21,6 +21,7 @@
 2.撤消缓存区
 
 stage -> unstage
+
 `
 git reset HEAD filename
 `
