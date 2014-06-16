@@ -4,7 +4,7 @@
 
 ## MacOSX
 
-1.[每个Mac OS X 命令行用户应当知道的八个终端工具](http://aimijia.net/2014/05/each-mac-os-x-command-line-users-should-be-aware-of-the-eight-terminal-tool/)
+[每个Mac OS X 命令行用户应当知道的八个终端工具](http://aimijia.net/2014/05/each-mac-os-x-command-line-users-should-be-aware-of-the-eight-terminal-tool/)
 
 
 ### 常用软件集
@@ -16,12 +16,12 @@
 
 ### 问题
 
-1. [yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
-2. [在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
+[yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
+[在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
 
 >  安装完后,需要yum update 否则无法启动
 
-3. [chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
+[chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
 
 >  adobe官网下载适配的flash包并安装，然后设置chrome://plugins便可。
 
