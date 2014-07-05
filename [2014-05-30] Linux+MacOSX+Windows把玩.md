@@ -6,6 +6,10 @@
 
 [每个Mac OS X 命令行用户应当知道的八个终端工具](http://aimijia.net/2014/05/each-mac-os-x-command-line-users-should-be-aware-of-the-eight-terminal-tool/)
 
+[mac系统tomcat使用80端口](http://openwares.net/linux/mac_tomcat_port_80.html)
+> mac与linux一样,1024以下的端口为特权端口,只有root用户才有权监听。
+> 因此要使用80端口要么使用root启动tomcat,要么使用端口转发。
+
 
 ### 常用软件集
 
@@ -20,7 +24,14 @@
 [yum下载仓库rpm包到指定目录](http://www.issacy.com/?p=541)
 [在CentOS/RHEL 6.4上安装Chromium](http://www.linuxeden.com/html/softuse/20130627/140767.html)
 
+[在 CentOS 上使用 Apache 的 Proxy mode 使 Node.js 和 Apache 共用 80 端口](http://www.tfan.org/nodejs-running-on-port-80-with-apache/)
 >  安装完后,需要yum update 否则无法启动
+
+[shell脚本转发80端口数据包给Node.js服务器](http://www.jb51.net/article/48146.htm)
+
+> iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 你的端口号
+
+
 
 [chromium shockwave flash crashes](http://shebangme.blogspot.co.uk/2012/08/how-to-fix-shockwave-flash-crashes-in.html)
 
